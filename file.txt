@@ -2,9 +2,9 @@ Hi this is the testing of the branching strategy..
 Edit something for to push changes
 Developer2 doing the changes....
 hi this is main changes
-<<<<<<< HEAD
 look the changes
-=======
 file modified
 again pushed changes
->>>>>>> b8821dcf15994bab94d6dd2e9a2eb8b6b310ea2d
+This is the feature from feature1.1 branch 
+This is another line from feature/1.1
+The error has been cleared...
