@@ -6,3 +6,5 @@ look the changes
 file modified
 again pushed changes
 This is the feature from feature1.1 branch 
+This is another line from feature/1.1
+The error has been cleared...
